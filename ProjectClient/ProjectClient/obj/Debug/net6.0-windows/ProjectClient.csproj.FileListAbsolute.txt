@@ -1,0 +1,87 @@
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ParkingClient\obj\Debug\net6.0-windows\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ParkingClient\obj\Debug\net6.0-windows\BookWindow.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ParkingClient\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ParkingClient\obj\Debug\net6.0-windows\PatchBook.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ParkingClient\obj\Debug\net6.0-windows\PostBook.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ParkingClient\obj\Debug\net6.0-windows\UpdateBook.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ParkingClient\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ParkingClient\obj\Debug\net6.0-windows\ProjectClient_MarkupCompile.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ParkingClient\obj\Debug\net6.0-windows\ProjectClient_MarkupCompile.lref
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookWindow.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient_MarkupCompile.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient_MarkupCompile.lref
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookPatch.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookPost.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookUpdate.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewPatch.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewPost.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewUpdate.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewWindow.g.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.exe
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.deps.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.runtimeconfig.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.pdb
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookPatch.baml
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookPost.baml
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookUpdate.baml
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookWindow.baml
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewPatch.baml
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewPost.baml
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewUpdate.baml
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewWindow.baml
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.g.resources
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.AssemblyInfoInputs.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.AssemblyInfo.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.csproj.CopyComplete
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\refint\ProjectClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.pdb
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.genruntimeconfig.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ref\ProjectClient.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.exe
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.deps.json
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.runtimeconfig.json
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\ProjectClient.pdb
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.csproj.AssemblyReference.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookPatch.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookPost.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookUpdate.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookWindow.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewPatch.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewPost.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewUpdate.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewWindow.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient_MarkupCompile.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient_MarkupCompile.lref
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookPatch.baml
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookPost.baml
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookUpdate.baml
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\BookWindow.baml
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewPatch.baml
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewPost.baml
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewUpdate.baml
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ReviewWindow.baml
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.g.resources
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.AssemblyInfoInputs.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.AssemblyInfo.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.csproj.CoreCompileInputs.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectC.B5C9BDEA.Up2Date
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\refint\ProjectClient.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.pdb
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ProjectClient.genruntimeconfig.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectClient\ProjectClient\obj\Debug\net6.0-windows\ref\ProjectClient.dll

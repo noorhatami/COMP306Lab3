@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="BookPatch.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookPost.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookUpdate.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ReviewWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReviewPatch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookPatch.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReviewPost.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookPost.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ReviewUpdate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BookUpdate.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

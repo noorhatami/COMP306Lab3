@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\dtos\\bookinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\dtos\\bookinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\dtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\models\\bookandreviewapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\models\\bookandreviewapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\mapping\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\mapping\\automapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\services\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\services\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\services\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\services\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\dtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\dtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\services\\dynamodbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\services\\dynamodbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\models\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\services\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\services\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\services\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\services\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\dtos\\reviewsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\dtos\\reviewsupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\dtos\\reviewsinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\dtos\\reviewsinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\dtos\\reviewscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\dtos\\reviewscreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|c:\\users\\noor\\downloads\\project version 1\\project version 1\\projectwebapi\\projectwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FA311E6-E5B3-4D5A-889C-BA2D5649850F}|ProjectWebAPI\\ProjectWebAPI.csproj|solutionrelative:projectwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Dockerfile",
+              "RelativeToolTip": "ProjectWebAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-29T02:36:52.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\BookCreateDTO.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\DTOs\\BookCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\BookCreateDTO.cs",
+              "RelativeToolTip": "ProjectWebAPI\\DTOs\\BookCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\BookInfoDTO.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\DTOs\\BookInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\BookInfoDTO.cs",
+              "RelativeToolTip": "ProjectWebAPI\\DTOs\\BookInfoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Services\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\IBookRepository.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Services\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:25:30.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Models\\Reviews.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Models\\Reviews.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Models\\Reviews.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Models\\Reviews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookAndReviewAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Models\\BookAndReviewAPIContext.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Models\\BookAndReviewAPIContext.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Models\\BookAndReviewAPIContext.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Models\\BookAndReviewAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:40:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAUwFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Controllers\\ReviewsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswFAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\BookRepository.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Services\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\BookRepository.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Services\\BookRepository.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAQwI8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:38:33.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\BookUpdateDTO.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\DTOs\\BookUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\BookUpdateDTO.cs",
+              "RelativeToolTip": "ProjectWebAPI\\DTOs\\BookUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.801Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoMapping.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Mapping\\AutoMapping.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Mapping\\AutoMapping.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Mapping\\AutoMapping.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Mapping\\AutoMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Program.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:37:09.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Models\\Books.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Models\\Books.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Models\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Startup.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Startup.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwCEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:37:16.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DynamoDBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\DynamoDBInitializer.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Services\\DynamoDBInitializer.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\DynamoDBInitializer.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Services\\DynamoDBInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T01:43:14.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Services\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\IReviewRepository.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Services\\IReviewRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:24:37.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Services\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Services\\ReviewRepository.cs",
+              "RelativeToolTip": "ProjectWebAPI\\Services\\ReviewRepository.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAQwIIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T11:24:38.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\appsettings.json",
+              "RelativeToolTip": "ProjectWebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T10:45:57.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReviewsUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\ReviewsUpdateDTO.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\DTOs\\ReviewsUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\ReviewsUpdateDTO.cs",
+              "RelativeToolTip": "ProjectWebAPI\\DTOs\\ReviewsUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReviewsInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\ReviewsInfoDTO.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\DTOs\\ReviewsInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\ReviewsInfoDTO.cs",
+              "RelativeToolTip": "ProjectWebAPI\\DTOs\\ReviewsInfoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReviewsCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\ReviewsCreateDTO.cs",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\DTOs\\ReviewsCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\DTOs\\ReviewsCreateDTO.cs",
+              "RelativeToolTip": "ProjectWebAPI\\DTOs\\ReviewsCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:30:32.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjectWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Noor\\Downloads\\Project Version 1\\Project Version 1\\ProjectWebAPI\\ProjectWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjectWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T11:00:27.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

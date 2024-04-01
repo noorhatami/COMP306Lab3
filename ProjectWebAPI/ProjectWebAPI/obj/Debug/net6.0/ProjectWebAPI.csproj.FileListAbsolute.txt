@@ -1,0 +1,310 @@
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.exe
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.deps.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.runtimeconfig.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.pdb
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.AppConfigData.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.AssemblyReference.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.AssemblyInfoInputs.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.AssemblyInfo.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProjectWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectWebAPI.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectWebAPI.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectWebAPI.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectWebAPI.styles.css
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.CopyComplete
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\refint\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.pdb
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.genruntimeconfig.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ref\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.exe
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.deps.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.runtimeconfig.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.pdb
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.AppConfigData.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.AssemblyReference.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.AssemblyInfoInputs.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.AssemblyInfo.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProjectWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectWebAPI.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectWebAPI.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectWebAPI.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectWebAPI.styles.css
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.CopyComplete
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\refint\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.pdb
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.genruntimeconfig.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ref\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.exe
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.deps.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.runtimeconfig.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.pdb
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.AppConfigData.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.AssemblyReference.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.AssemblyInfoInputs.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.AssemblyInfo.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProjectWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectWebAPI.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectWebAPI.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectWebAPI.props
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectWebAPI.styles.css
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.CopyComplete
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\refint\ProjectWebAPI.dll
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.pdb
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.genruntimeconfig.cache
+C:\Users\manic\OneDrive - Centennial College\5. Semester\API\Api Project comp307\api project final\NEW CLIENT\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ref\ProjectWebAPI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.exe
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.deps.json
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.runtimeconfig.json
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\ProjectWebAPI.pdb
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Amazon.Extensions.Configuration.SystemsManager.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.AppConfigData.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.SimpleSystemsManagement.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.AssemblyReference.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.AssemblyInfoInputs.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.AssemblyInfo.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.ProjectWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ProjectWebAPI.props
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProjectWebAPI.props
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProjectWebAPI.props
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\scopedcss\bundle\ProjectWebAPI.styles.css
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectW.2CDA9AEB.Up2Date
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\refint\ProjectWebAPI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.pdb
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ProjectWebAPI.genruntimeconfig.cache
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\obj\Debug\net6.0\ref\ProjectWebAPI.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.DynamoDBv2.dll
+C:\Users\Noor\Downloads\Project Version 1\Project Version 1\ProjectWebAPI\ProjectWebAPI\bin\Debug\net6.0\AWSSDK.S3.dll
